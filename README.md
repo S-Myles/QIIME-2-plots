@@ -13,6 +13,6 @@ This repository assumes that amplicon sequencing data has been pre-processed thr
 * Classification.qza
 
 Example data is provided in the QIIME-2-Plots/data directory in the form of qiime2 artifacts (*.qza files). 
+<br>
 
-
-### QIIME-2-plots tools
+## Tools
