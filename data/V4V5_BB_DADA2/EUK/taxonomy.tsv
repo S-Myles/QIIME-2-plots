@@ -1,0 +1,1038 @@
+Feature ID	domain	phyla	class	order	family	genus	specie
+569545f8a42b9bd2cb8f2190860c7ea4	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+9f0ca134728879c9eb51338e41c70485	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	 s__uncultured_eukaryote
+1eae06511aa974786b14f4e222ca57a3	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+35933fad551063e9f2e4829da5554a44	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_sp.
+bda3ec65c4a67eece65e61bfd6ebb628	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+b6867f56ec4bfddbdc0c417894a4fe7b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	 s__Prymnesium_parvum
+237128ea377cc588003fe4536eb14fb3	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae			
+8b9225f5d7cfd8cca6bd842108f3b927	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+077cc84e1cc35812df8fd70f7d901c6d	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+5dea43beea4bd78ac7751b0a09d5ea88	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+c859a3bb6ea947e891c9deac01d53650	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+b38fa3de7b5c59d9ed012dc21a7c5c15	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+5f9d28dd142883b4247eac62f95a2dbc	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+318423760049b3f0012cb8ea188b78e6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+54a47fbbba5a8133388e12dc29ed7e37	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+7d4f620b438e87d8cebc8a1074863149	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+fa9268a271338d756cbe78f8beb5e358	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+64b59066cb9c496b10f5aa14f40d71ab	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+714815da0671bcba51d6b5ccf30a5a21	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+402a758afd4286b6573acf2968c4f314	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+5ab2a378b07c29d21fc054601414ff14	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	 s__Alexandrium_andersonii
+fae42ed32b2a7b3bb66b7e5213e387a5	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+8f8f37f24496ee4f1d455c405c164dad	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__uncultured_marine
+fca1fdc1850a37f47ce08800827d65c6	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+a40d04da18795b31ba69cea378526aea	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+2efb39428b9773e4f98ba960586a7dc8	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+a8120a329c5a581954c30123f1744bee	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+adbb9688430aa11383b1b1a247d9e876	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+0dd70a9a719613bc28d1077693f1ae31	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+8dd5075fe5310a8faf6c96a4189678d0	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+71dc140a76c91fd4f48f33819f208d6e	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+b3115897edb50af3795606e77d7f078b	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+6ca0945d435ef88ac23a62ee75c7db0b	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+1edf90b52ba47f3f1dff496eec4de783	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+9fada4c649f369c4c307eb727b764bad	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+08d5f8a33253dca62c3e1f7a4f7a25ed	d__Eukaryota						
+faa5d7539ca50d2e22204ae76c29dcff	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+b93a1be33a2d38a2abc85eaa102d268a	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+75808717fa6894db416e6ace01aba136	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodiniphycidae	 g__Gyrodinium	
+d4c3d07d2915659b4b449a8a1a834ec5	d__Eukaryota						
+95c9f4ce97abe99c3a92175106d0bcea	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+350747bd4881aaa19a5b32ed93451740	d__Eukaryota	 p__Diatomea					
+b2ee585b6f57bf540b26963c74566aba	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+2729857a7cb969bbaede1c01e8c558eb	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+03e7bfa4a6ebeafbb3f8f31c596f4a59	d__Eukaryota	 p__Diatomea					
+6410058f8824e5c441290c1fd5d92b46	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+d2077e40a7e4c2409c782f8833f4d6e3	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+f5d674fdbe3a6aa57c495032d01b9271	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+beb0c15555c6888da0bd7c7a13881739	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+d7086b00c5466109788147d3c428efd8	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+fdd3767011e79be1d133071cb963261a	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+1b1fa2796e48f788cd0e00ae97a7a80e	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+1ca43433fa6d4ab22a37639f5334bc9a	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+ab85f5c5aa3b41e6cb3367d4f8119a68	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+2ee63a122fe39ff3c7581f77fb8b19a1	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+90c6940fc418d455cecb47e9e2fcf2a4	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+181521945107c5574ad38145f8fa0fc4	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+744aa90fab027d028129b233d728dd33	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+fa4638cd8a9196e967b126c7bc9d4372	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+e613dd5dfafe4d89b60dfcad7f9be1e6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+0dbf3d092c4ff04827dcd1193cdf3893	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+00f1231ea9a3ca56a169d557927f9db2	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	 s__uncultured_eukaryote
+cd0fa3f3e6a12d6946b0ffe48e3448f7	d__Eukaryota						
+e1b78d23bd67cce4617b81b648bc9eb0	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+d247a238d9165d800c705decf7c41ff4	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+c6e7bbadece8310d4db7f0f4746047bb	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+15a8f599228482287e10a4d0d6d0887f	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+78742e94ddbb3ab9e8367d85701830ac	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+4e083afafb74a7bc9fb1a45ba3a837ac	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	 s__Micromonas_pusilla
+7a7175828b3cce34724d44b2bf988ee8	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+cd26c51f9beff3c23c55b5d44b455112	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+ddfb8fb9755cc76a5922901878c39b29	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+7eed0b95935862e48137e03009042c38	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+97943e892bbb0b5332eb92f3e03dee8e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+7f0d096b0ad08a7d9bec9d5aaf6e2b66	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__uncultured_Chaetoceros
+79fd0884722ef5f0f2841b530c16828d	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	 s__uncultured_eukaryote
+a92d8a748c4666ac8d7e076f870cfbd0	d__Eukaryota						
+bbc22c4e23c58f9f6b805ba75b4c8f2c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+0566a510fd5f84c7c88298ba1cfd772e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+0910fdc6f91dd325776cf10c1c8bbfb6	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales		
+92c22e94b9e81c6280b73ddbab29855f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+fea0e5fc73f39b8357aa03b0f9c17472	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+9e5fcb9ec3631e4c0ebd0a875eebe8f2	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+8972c3412e72e73b00e579dd11487d4a	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+a72dc635059409aed7538a1c4ce6a166	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+a641294b57d53f7ebd3f9987ea3779f5	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+6ce3ac957154ff7afb36d415967d63e5	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+512ec722c1f014865c190d50da7cde17	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+1974087cea7745cc46d00af544d82aea	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+9b19c828b21cb9131b2dce37c913d26c	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Strombidium	 s__uncultured_eukaryote
+99fd2fad11025d291a6303835c779ce3	d__Eukaryota						
+62e87c8a3526690a345338890116f994	d__Eukaryota						
+eb98db4ed67a58d5cea10c32a0abca52	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+17361ae1102f3e894376ec68a0efb556	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+ae58f9f31b54cf5101a7fed5c8c13e20	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+a7bed65a0e45ab77aea88084c8754a32	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+b4c2c29f968fc5322dea0efff358b3b0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+db080ff97b20cad87b6b9910e591d268	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+43989516747d08ad39f128a1b459fee8	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+a00ce81d6c32872c03a6621c74c133ea	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+9dad5abaf94622de22d77443ec397a68	d__Eukaryota	 p__Tunicata	 c__Appendicularia	 o__Copelata	 f__Oikopleuridae	 g__Oikopleuridae	
+2bd07d07b78566c8a2d6089a637d3fc0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+c8f5eb87bf876242c98260294c581ca9	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+0db73c81b948ea5b1a2e5a5ed8b47c94	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+c7ec798d1b4b2f6791a114504dec8214	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+cebe87b1ed5b0540dc1faaa4e9bd8fbf	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+567df8909d6383a3071dd8f92f7f119d	d__Eukaryota						
+90e2715e4c4ef1aeebef90543b0c5416	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+39f748a025738ea6fc9f9f7ca46694a7	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+62cab6c18e159d2bd528f921601be4a5	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+01c50033f7a9ddbc71d416239cded8a5	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__uncultured	 s__uncultured_eukaryote
+064be53be1281d061e7d958e0953d6b9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+511b7602280b6e076aa02019bd8da94a	d__Eukaryota	 p__Diatomea					
+d715bc8b6146cff9aeb189bd25b78e9f	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+f191d0a4739d8964e6ca8a54341c49e1	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+06a1096eafd0397fe0a6a766c0ed4137	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+afe1fe846b119ff97ffb2d0e49310c11	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+f040e137f201e2b22791e29cdcaa7231	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+6807c81d55ded49e4ed4bfe400269e68	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+fbbc7d8df7eebde2afc26c4e24ac1c74	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+65451758b3be63174244c7c8bdf2ff1d	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+6c7cdc5b43df5b67e71be7f49a196ad5	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+b0e355aa995708dbc7a65b9fd1fe84e4	d__Eukaryota	 p__Dinoflagellata	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Haplozoon	
+49bb95a5d9369b303c3745a16c8cca06	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+79018989eccf956ebf2b954cf67e2a55	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+3dd827d44500277299ea362013cc53e8	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+64251eb2e2aa31248ba52b01f2665633	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+6623c493336cfec2a8a234ad6da6a2a9	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+623fd3dd949b6b62b6b8cad0419be970	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+21ef806db83424d7d7137d91127af695	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+947c832184bfcca92434eead67ec97c2	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodiniphycidae	 g__Gyrodinium	 s__uncultured_eukaryote
+f57c0412c77bbc41b24878cbe762462f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+651116f4cb7ed8aecef44ad3fdde1e86	d__Eukaryota						
+7d75a2af75610732a613c709797cd9f9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+7886854fef8e2939082f7ab90c70c414	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+e2f165079fac549f482cb26a1c710a43	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+a1aee530a6722eed3877d609b39a503b	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+9dd65c09eecddeb620ecdde6c98f3719	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+bd4cde7c9c159141a913ffe5e161530b	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+0e8c74fe964117bcebd6349150047183	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+5e44a1741fa1442d3a001446b60a9ef8	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+7d70c4d349b9bc2f29fc0c9db96e96e0	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+261f5bc4aacbe26a018168efdb9bbda8	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+f619fbd85790cbf97de346ce7739a3f6	d__Eukaryota						
+02fba29bb670bfc4d1fc3e3cf8f0591f	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodinium_clade		
+ec401c6eaf67841b17c0c5fe72b56e50	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+1e96202f7fd4ee3c70693009e65aa132	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+f69de3c52153a838e482fdd3a4af9372	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+e08b5545878478ccaa85dddfb540a262	d__Eukaryota						
+93f70bb2df3ac54bf28a0f2a1b0664aa	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+64d0a45e3aeb25b95e1a59836195c8c0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+4901235c64a40dd1ec12c799eba5115f	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+bfbc1eb01313351c58db7100abcf5287	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Euplotia	 g__Euplotes	 s__Euplotes_dammamensis
+7968a7908775a783eb9b83aa2bb68ff8	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+a001d5eefc9365c0c9e0c11ca10c32c1	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+f4c698e35b6c4053e702123893c0768f	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+b46e44418ac4f7552a6781c528265f68	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+1ef5f7e2c88d2462042eb18befee1df6	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+c3cb2eee4e4aca377b0d18ef6f80256e	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+0bf2724b734719a6c2d9fa136f1020df	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+5e8ca5229060e89ae1c1885f215381f8	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+25ead09ccb4ce30f39d1a916e5f799f1	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+d442c44d17caa7cc3923e33f01c2f722	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	 s__uncultured_eukaryote
+b6289d168745c8d90644ec8cb2f31da2	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+e35dabb1c815c4f7e5485760a9b408d1	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+d3d03e677036232b3b337247ea1e2ad9	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Bathycoccus	 s__uncultured_eukaryote
+fc3414795542c15fd4dce233e1aed1c4	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+5063964729b9e09fdf9ad9b71e1af269	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+b08bdba223029151a05b358bb0852d9c	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+a74faa2e3785a4cf78a55538e7d1669a	d__Eukaryota						
+08c92c9f5f9aaae4306cdf3e023f2453	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+56eb6a49155e333d6eab55f9f8149b4c	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+71d295a75357ab1d2634fc68f11468e2	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+0826cc2d699104af3d874e0f0b81470f	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+b2ff10d80ddc559af6417c72cdd0fe4f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+9c720faffbd0498aaa25c48d1e36f63a	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+7be859718b4bdd34884d77e43376971a	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+0879e21d2b94861c0df773048dc3bf62	d__Eukaryota	 p__uncultured	 c__uncultured	 o__uncultured	 f__uncultured	 g__uncultured	 s__uncultured_marine
+5dd373af4479a286cfc436806ddffd39	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+c898073931eae896fcfcbedc6738de70	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+4df9f39751c8b2a381cc05453f69a14c	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales		
+2fdd226e27a413728e1c28d023738e21	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+391ae8715314a6517336a5906f2763fc	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Cyclopoida	 f__Cyclopoida	 g__Cyclopoida	 s__uncultured_eukaryote
+29227127a1ae3290b606f54a2df17dcb	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodinium_clade	 g__Gymnodinium	 s__uncultured_eukaryote
+259a4eac5844c2d73e83989d0e301b69	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+85230b3cf4d2768327a83bff1ad1687d	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+fba53e6275e4074b7cd2841266af4fb9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+e0125aa43227a4ba84ef96b6d6aba062	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+efa823a0f143253035b2e59991d3a034	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Suessiaceae	 g__Biecheleria	 s__uncultured_alveolate
+ab2228efab644462b2c9df95289e386d	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+a26ca665f9a48f65162edeb8c1af9320	d__Eukaryota						
+617fb2790987aff5e419f7e97a08aa7f	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+588b1f3b6b71c5783c017a9a9e3623ff	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+1459e69764d395f6de8f6731e6cd6714	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+edcc4ad3dd3809357d58a1d92c63f4ae	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+8ab59336b34b24921c63cd58189ecbb1	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+0708ae28432a799ac933edb4ecf5b587	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+db95022b9edb5fe96350ddff041da810	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+b80b1b7e25dac6d40d412fe939e230d4	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+921f40ac545e00f4b3ecfdb28bdd001c	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+5e23b6c4d1d8a48417223d96eb714fea	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_sp.
+080adc5ab07f58879fa63d05adf768ac	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+16412fd0d8b1759e5e36a04a46d17b02	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+66706a830bedc46d150ef415729a50ed	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	
+ef2ca474ec077f9c7f2bd006c29beda1	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+3bc0c198def83ff8338f13ab21836bd9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+80beaf0da9636103a273c8601e595603	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+67d6291997997bc6a6d696dbfe786837	d__Eukaryota						
+e4e7799e93f3067170a3739a0096981f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+90d174ef9f64af5060bfde2de9305ee8	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+86eca40b9a7fe015ce020a551a50dfa6	d__Eukaryota						
+ca086dd32f5bb115a26cf3213f689bf2	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+d3c9430439ee9cb4afd2bcd781691e5b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+d8bf2aa309f9418e7b601a0f4b12985a	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+055388fd1dd553d006c21c6f48559101	d__Eukaryota						
+2b23379c5ef0396ec8f747ae91e704ee	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	
+a43c67e23c5778cd551349b604ed188e	d__Eukaryota						
+4e1eac0ece2144bd119521a33fea21b3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+90e75408116a64744a92a4e30dbc5dd7	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+291eb2320057726ac073f8c2bb6b833d	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+796eac92b10019d2de93e38857627dbb	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+2ce63bbd5b506b645db1e1635965ddbf	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+bd3f1c083760886bee0aabcfcfd97aa9	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+30f3f4d0b088be327138deb9632b379f	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	
+3e0f86d3463413d4b8c867f984d06410	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	
+58f663742aa602c4e95640e47763819b	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+700c4fe2eb71447ff024c38ad6420aa2	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+2d6a2ff36980636108589874467811a3	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+eef44090a958a670f4b19f21bd666394	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	
+acd41cbd27039e217c34f09cab05cd56	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+61eb5aa73d8b2559f8c29a6e23a6276e	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+7b2c2fc422c5196a696f81933b36ba34	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+57bb2241c77b826ab02dfbb4de4a7466	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales		
+ea5a73eee5cba8c653085c486b21f275	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+90f1dbdf2c0f6bfbc52a4de2b346fcf3	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+55aae668222072a953b7b2e1483edaab	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+514bc7438016ab8d6bb6661207293adb	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+662daf1d8e0c3bab4746eefe8ba56ba8	d__Eukaryota						
+1f2e289276c37571d5b535826239d907	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+52b37c2db646a8e4dd929a499032a417	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+af4cadfd9a10072686446f292297ce3a	d__Eukaryota						
+10ee6119f324562cb7a6985ac8c9f12d	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+bb3ccc43dc2989bb5f1b48c6dea00122	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+e9f3595e0788e90bf8c3719328563d93	d__Eukaryota						
+e9772c03a74432908ecb50ef0166ec50	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+7735ec29bc12d96335f74e8444e380c7	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+590545ad76ef5c9f7717b0681a89f804	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+d897fd98ceb8275ba85f90f1178d8e42	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+12ece997342ed2179fcf1e08427dece1	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+b2df66227c5d576cdba73ef5d7ac6c4a	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+e709d96725476f6c007adcac3f308e5f	d__Eukaryota	 p__Diatomea					
+72343570aa474e3aef91df19a7a338e0	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+efa1ef47d12a8385fd9703dc7d9c6885	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+b4e4056c087e407c4d23014b6704fa8e	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodiniphycidae	 g__Gyrodinium	
+0c5f22f7519ec4815b0b5601abe192a9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+91bff34977154d43a24590487171b57b	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+aa4a9d7ce55394c07fdab9620355b8ef	d__Eukaryota						
+9c23858c5c73d257e4d1c16a68a2949e	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	 s__uncultured_eukaryote
+6c54e8c9e2b45a51ed1902562dec4544	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+a011be654db55d4fb6ea4f8788c898d9	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+44107cff6ae765f2762582718a355f4d	d__Eukaryota	 p__Bryozoa	 c__Gymnolaemata	 o__Cheilostomatida	 f__Cheilostomatida	 g__Cheilostomatida	
+99c830a3c805cb476de7fd8de78cb6b1	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+f5c4a0e957ad673e70e462c67eaf7ebf	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+e255652518e8e4a028de251783aa3b6d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+a6e213634827899b926b638a335b89a6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+f89df2ddbb24166fb9adb98c9adccc2a	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+5660f0dff39d3d57582b75bfcb247362	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+99f39ade998ff425935ef2829d67d18e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+2050d006bf6992facee0e6d77873133e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+5fd399a22ddfa3e26818ab2ec26dc266	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales	 g__Teleaulax	 s__metagenome
+441ae7ad133c4ae22166056ce2e8340d	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_australis
+b89b3030c334983c78537d4e21567f0a	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	
+d20c766667e78bb0af3301cecca841ee	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+d57db7cb4ed04349ee4f856429cadd58	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+3cc7a041bd27d2d7befe2a5f8647d529	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+8f1466baa2f6e9b3ced64e5b2d0bd5fb	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_sp.
+b38a022999ec0eaa6f5f398e1fdf356c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+1d4554b490d3d6ad47acf8d12a4b7615	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+5c24ed690e577b856ffd5a9a519c8dc9	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+8103fe7cf7b8b34980d03e2f2c93ba94	d__Eukaryota	 p__Bryozoa	 c__Gymnolaemata	 o__Cheilostomatida	 f__Cheilostomatida	 g__Cheilostomatida	 s__Membranipora_membranacea
+ce28be626f12d3573d170a4232b42917	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+35cdc6e82ff03a3f800a2bb7ce295b17	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+278a682b409fa4e5092c51eddef33e64	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+d2c4d80fbd0ebb656501ca058c6b0a67	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+fd6de14ccd3877c1b76043d37a90b42b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+4612e46bb18d4030ba35c1d2aced4ce6	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+5e568b4c716bb0e6c00e4c29ab626988	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+ab0604b82d7d4d7fbae064a8528b22a3	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+b066885050c23050ed2a173e7b639ca4	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+c0c4412b0da13cfa9859ec4c9e9d647a	d__Eukaryota	 p__Ochrophyta	 c__Pelagophyceae	 o__Sarcinochrysidales	 f__Sarcinochrysidales	 g__SS1-E01-69	
+0ca0db8133b5a47a78df4b17e5482c60	d__Eukaryota						
+7122c003b5ebc1cdcd18fe20eb4bdc3c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+58e99e41a8f4a15a45066c4c48ef014c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+d34bb3f23f7ef990cdec879018a7242a	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+5c36c230b73cd05aa89ee9ea1375bc44	d__Eukaryota						
+1d110f26b2fe4190ab4c970ebcc4ed01	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+e8f6cfe0829fdb1ebb560d1de18e3b81	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+8037f308bf3f581830739525fe82ae58	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+5f35bded0bbb4157644e2e39a78a889e	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Licmophora	 s__Licmophora_reichardtii
+873496c79922489954bafeba8b5206de	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+800eeca17a1201942c2c3ee7454ee71a	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+4397ad56388ae5690e5ced36c934fcc9	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_II	 g__Syndiniales_Group_II	
+c8f0735c93a627fb400b20b672bb1b7a	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+d63a9937923d1fe61577bc49dce6dbeb	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+30e2a8f15652f7abd74dda832aed8ac4	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+79cbf9b72af367ec06d02f5efb5c0004	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+00f8881aa976961ac1be7b09fa0e86ec	d__Eukaryota						
+d4fd6a9b26b4cb7c610b6f37a8dc0cda	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+1b5c66f5b2b5a6db2d02153a1f62d7ca	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+e91ebd76be469e6b10404857de773b7b	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+ecd4fcb464029b2b9ab2aaa7302a47ac	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+8597c60cc8b28e574e6ed85adef918ac	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+fc89eda387489895b2aeab8ae76f7f85	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Arcocellulus	
+1d3c92dacd0c904a5b081761aad614a8	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+cccee892bf91cd7aa3b4b06f99388ac8	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_sp.
+2a30039710b05127e546787f7962fbdd	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+d376991e98a430417ef49283bf3f04f0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+765d41c9dc8077e56f48853349d0edd7	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+6b464a09795a9589a73a8e1fc6103c50	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+11768d6934a437d8efb94a4b3af5cefa	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+7048f81206e71ded80c4cb9563b1ea54	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+12813cc63e8c31f096260b6a8925e6fd	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+28c87c11f1c28b82647218454393d5b5	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+050902372acb49e0df8e8e6071d2c857	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+2c2049937c5d119a632da92d102cb0cf	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+b2f08506ac076d39798430c81aabbae7	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Strombidium	 s__Strombidium_paracapitatum
+7b1cebd9f39fe2fe2a0d9cc26dd5e1af	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__uncultured	 s__uncultured_ciliate
+c96d1f1c0799e533de9de9576e4256ed	d__Eukaryota	 p__Diatomea					
+120afdae377a5aeb1ac73bd884830727	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+021986803db271dd1d4e44aa5bcb97b6	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+1abe79bb1acf974aa8aab75d8fff3ea8	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+c784adf872f67757901b4a1afa1aea86	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+120bb9564d5d9a7c4ddfd92667921906	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+7593f47020a98a62d520ff297bc4e334	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+a7e49e68a16ffc0b342803585d326e92	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	
+ad56bc7873986bb503ec1ffe9a117bd2	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+6cc43c5d041e522f8d97906e65f25ccf	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+6f0c8053a38449226c8d6eb6516e82f5	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+2f890f679ffb81218c1b84dff1743a41	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+bddec3a2bbce631da0c70581c641c0a0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales		
+6c0b41a3bb637d804c6965a8fc7e2e2d	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+8067f63449959070d64c59c1b610865f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+7ed6e04e1fe571854d5fc23a72bb4b13	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__uncultured	 s__uncultured_marine
+193e7051b5b3dd8d0bb0dd6646a1e154	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+fbbf7b57a0989fdac7ebbd1ce7268bab	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+ea4d332525b082087c5ba55310d9d51d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+f9ea3799c12711b001a9b2ce1fb01c18	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+49a87d760289c7b3b0cfd96b687821b9	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+53ce6a320eae9a1f2a28b439262caf2c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+b3d188e7b70d1fd04e0f2625b50efad1	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+a5512f2c2aaf63fdd5a93161a2c0670f	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+fe42553f9384f269f4fc31f7354deaf8	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+95df029c0524119ddbed4b6e8c6aa41d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+11e2308ce3eba4efd551575598caeccd	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+621c9033b03ae1f776e44de99cb4623a	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+f213ca8147ceb98d911e7f1999dd04f3	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+357c3cebc31f34522432463dba16deb5	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+b591161c68dfa9ae53d6b8fe17154d10	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+2fbd35249102b5ca34660442a0227fac	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+37c0075d5c987d418cd01371218da981	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+733c1883bf2f21250699e707f8f2f4bf	d__Eukaryota	 p__Dinoflagellata	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Haplozoon	
+ecdcf9ab4e5d51dc8c159fcc2a5af766	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_sp.
+51ec46dc21e4d07dd11aad3795d28a7d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+ed75a11069688bbb13043164c561d653	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+3ff592eb932ab7e041e709b2eddf66de	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+0e74bd01bafa851a9968e0fc8d31fccc	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	 s__Alexandrium_andersonii
+1f36a276ba38946599dd254988800a5b	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+7bd3c85a39f0ff14263f9660a7d04af4	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+1810572f84860d732470a31080352fcd	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+3715942df09331a2996567fbfceda3de	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+c3685d8b9b1030f579c391e8dd0f4686	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+bdd2442ea0b2a438301b5de9a20b6958	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+cf5e843bf1cea3500e0e91b61f206e3e	d__Eukaryota						
+fe74148c1794888478e73779ed157f80	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+2e527e2e036a2724eb978f8e6915a19d	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+81fcb0ad7d719fea1a6d537f49f6316d	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+da9f2cb6e519e2d8cea811c9854ba2b6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+b8721326979b6e323fe71b21c2a2c6cb	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+8e5d29ff00e248b6d75d0bb79e441e7e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Chrysochromulina	 s__uncultured_eukaryote
+d247d66a8b181ffbef818f39080869bd	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_gelidicola
+25b48c1dab4f8f8890ca8a1071311bb3	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	 s__uncultured_eukaryote
+4a0d81c384ccd7319f3a0e3175640bc5	d__Eukaryota	 p__MAST-7	 c__MAST-7A	 o__MAST-7A	 f__MAST-7A	 g__MAST-7A	
+e88c8365a9a411a2ce154b8cb3d47050	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+973aa672d045ea38ba5396296d40515c	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_calcitrans
+6cf5b6fda92144d22bed1ade3f38719f	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_antarctica
+2188a67d19e820775dd315f1a8101b96	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	
+3a9553545165b2bb2d618293c261de08	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+a0d1c342ef7cda868f501bbd9b6bada8	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+d03e46196ebf1b36c2ba50bcaafda79e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+2476104a0b865095c6dbdd8b634080c0	d__Eukaryota						
+4396dcd4ecc07c7a6667423103b3108f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+c7566510fe0818dfc8589288a3fd160d	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	 s__Micromonas_pusilla
+ebb3911520fb8b9e21eaecada1bf2587	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Neoceratium	 s__uncultured_eukaryote
+fed1314f4237d273e1c278a1a8e8f6d9	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__uncultured	 s__uncultured_eukaryote
+d2a03d9506ed1854a83f214d011fbdee	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Oligotrichia	 s__uncultured_eukaryote
+9efc95dcaf6ae67ad3ca8dc67428e1d2	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+56cf317deea2efb304cb651f1f7d13e6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+50ea75ebda063ad4ac91471fd0887e97	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+2d14f394611df9b696614dd78e5de662	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+2652d1505ef838ba92e01c5a700315e0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_antarctica
+84e5d5867074c890ca8dab1d93bf1ee2	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+915dd2a242a6b35a8fe7ffc14cc6f2cc	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+83bd9d5775c3c03a23e37bfae6d4f976	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+988b087ec6bd7e8f4663a5546c3e5f28	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+a432933c635f21aff6858dfec41d7117	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+a93d904e2d08f3ac41ad75c3d4fd6109	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+895b5b187172bc26458a98d820893165	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+919519f5210c5b5f7220d196d3571859	d__Eukaryota						
+2553f6f292a4c03b52a7b8e7a61d56c8	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+a9b86d29ef886ab186e6d47fb03458d0	d__Eukaryota						
+3d5f188f8403ee07e073933a56bb82f3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales		
+6e0bdd3c9876119dd56f8e050119dad0	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__Steenstrupiella	 s__uncultured_eukaryote
+3fada6f3016821e670db46c27c76fa07	d__Eukaryota	 p__MAST-2	 c__MAST-2	 o__MAST-2	 f__MAST-2	 g__MAST-2	 s__uncultured_marine
+0880903092f5865554533d15fb3d9782	d__Eukaryota	 p__Cercozoa	 c__Thecofilosea	 o__Thecofilosea	 f__Thecofilosea	 g__uncultured	
+6054ed7a6b6b9e5c4260c195e6bba4ad	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+460ecda9cda835403ad8174ffa253bca	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae		
+077705ff2b392b53b2dfeefadf8a2b28	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+a0aedb16a1407c4525effa39bf15f587	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+7cbbec102aa2a170d1e2fdaa53f187e9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+9e765a1650416fedc95780d92fc75ccd	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+14a419ce11be69a54ab81ca9ab51b6b6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+509fe2191b01e11886b1caf534304d87	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	
+96152a36ffdddcc917091f8595782522	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+d5b1f20f062b64f2a8a5c6e77c20839a	d__Eukaryota						
+8cf3483fccbe252b2cae62742f0b82f6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+40036f6a11e85a8dfa59aa2a6f436bdc	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+3f80aa7ff44bd90c188a5db1959e20bc	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+c4be5de21e9b9130d64ce7b918eca109	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+592624de52134ffe07833196b5febccb	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+bb7768976f192e0a1e3985a42f46c0dc	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+1b2c86344329111e4cbc72eae7e524a8	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+adb8a79da31b477333ec5b506ee46ce9	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales		
+b70eda190f5c22131c24f9652875081d	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+b25c513e1c6521901337cb7226eb590a	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+6e7674d3608172c3659270cdb80e4c2d	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+bd31822d332c31e75667cb7c3ef532f0	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+7176272520f2abd145379e1ffd6dbe2d	d__Eukaryota	 p__Dinoflagellata	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Haplozoon	 s__uncultured_eukaryote
+b10768d10fb78ba38bb682b8bca77062	d__Eukaryota						
+6b65687e29067ccdcb5438bd4c642bfc	d__Eukaryota	 p__Prymnesiophyceae	 c__uncultured	 o__uncultured	 f__uncultured	 g__uncultured	 s__uncultured_marine
+2a3172f90118efb0eedddc296518d747	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Pseudotontonia	 s__uncultured_eukaryote
+b46423c0a0c1effaebf33ebdaf33018f	d__Eukaryota						
+f5f978ceb69af1e4829550d1d2c09af9	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+ad17fc90f6bc541861738c89db8c9960	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+704edd56b9895f95acdccf6131236045	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Peridiniales	 f__Peridiniales		
+7c5e9fe2fdc730413927759c29c0f397	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+11cf14fb9a9b11cbaba027433ca762a4	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+79e748c8d0600da5b299b4a44be80163	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+662dc28c5fee8f62c28d62b5f200fc0e	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+e740b4b9dcc3325df6d66e5fdc1e8c4b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+0cf4925cab0e57dfc92cdc49e567b037	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+ba1c3ad2224a3a18cdef590f438244db	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+6b5e68c6974ecf126fca1f1567d2d526	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+c01f9fb408b01e5c550b011e483237d9	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+1ab512521a927631931b8320da839e86	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae			
+0d30817b1a01b223e0da55fd70036a21	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__uncultured_eukaryote
+e8b106fc5efe3245db92426ed412aa33	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__OLI51059	 s__uncultured_eukaryote
+ac90522c4096daf1e394509bf77f0942	d__Eukaryota						
+c3facb681c122e1b66bd72509eab1a8d	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Euplotia	 g__Euplotes	 s__Euplotes_dammamensis
+4fc841e07d3422f57d9e5eca8922fbb8	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+92dd46b6d99f362db66d9bed0db777be	d__Eukaryota	 p__MAST-3	 c__MAST-3	 o__MAST-3	 f__MAST-3	 g__MAST-3	 s__Thalassiosira_sp.
+6ed1d4699ae561feaeda009386faab4b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+9b2911f46429f52d4fdfc952c7eee001	d__Eukaryota						
+382b73851220397acd7eb09b690702d8	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+72244427b7cc91e8feb22e6a8031afbd	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+9fc94e477c64073bd4a1083547bf639b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+ce4807920ef52c918fa4fad8c7db72f0	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+91cf5960021a558c02305aca72fdea1e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+361e3fd028fe3a6b4d4950821e065471	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+6400ebf92e4ec3ddcf1b39b66c5a4c31	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+a7e8dc8a5466da26c542a81aa3a3ee74	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+47ab0e43a8c59ac0e700b5fcdea637ea	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales		
+2ad588259b867beb1aa429927a5fa5d3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+746539047232ac4ca31d81e9b06bf1fb	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+c93c6c110e6b331d394cfea185e61a96	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+dc61a395a996ae6bec89330b40ed7200	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_sp.
+aea96fbbd0989db29c66108e39a6adad	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+cd21abd48f2accc296cd935920ae6e90	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__uncultured_marine
+49d9f960c2a8df3883951df20d843628	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+77c99dea45ebc60690c7d696fa931668	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+94f62dc2e7b8dc3971ef634920f59623	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+86127804fbf506458a71c1b1fdc482ad	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+43d8c491f886c5f772e7fbf360159dd6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+84553a97971a1c0206e48973903b9964	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales		
+41326cf6a8850b900e5e10ecba97b2d4	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+f160253f436c2c05c30da30c2b6026d5	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+3dd6e4271b80b82fd8d67706b5ae3d10	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+07afe8573c3b3ba06a9b50c1aa98a0be	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+f4e336592d15266020a486d708b9d38f	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+2be03d30296e0584fe026af8598fa48f	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+dd78f4598781b1a801aa38625fd481fc	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+3bed0c77c63cf74ba5a399f3a4d192ca	d__Eukaryota	 p__Cnidaria	 c__Hydrozoa	 o__Siphonophorae	 f__Siphonophorae	 g__Siphonophorae	 s__uncultured_eukaryote
+6e75348a8431434bcda8d9c1219e2467	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Peridiniales	 f__Peridiniales	 g__Peridinium	 s__uncultured_dinoflagellate
+1fb11204e7718111eaf21350bbe6a3da	d__Eukaryota	 p__Mollusca	 c__Bivalvia	 o__Mytiloida	 f__Mytiloida	 g__Mytiloida	 s__Mytilus_edulis
+561b00d5346ea4b50016602bcd778156	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+90291ea2586b7f8abf6eea5b158bf534	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+9ad7d7457108bfa6a4e60c7f9c4291e3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+fdf161b4a4c8497d571ed654db07661c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales		
+7136dfe6702a26aca0ac6382eeeaf3ed	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+7314fbd2e23eac3135ed3e241a134013	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+e0e7ae8f620e314c6ee28c317444c31c	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+eeed11e03ebc843cdb5224ee6d51a84d	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+cf86b9039119575d4950f02ee1acf3bb	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+0e1db75d540c00e2fb243e7527863831	d__Eukaryota	 p__Prymnesiophyceae					
+4881f09f870e045f320efb5b62f0051e	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+1556f8c09b454373cc5236375326b38c	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+b40617f53fbc18731f7e678fa91d54c0	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+79bcc7c1ff439d8cf2d544c2c9b8f0b0	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+deab441e26ff8b9f047cef0b085d6a82	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+790d808a228bf6ab4e61a95be4227606	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+ab5acffaa476e0743cb0e1719268726a	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+af183ac330855f9e35e3106bd6b76c0b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+444ac3d3f87aba38a1e45204da8a67a0	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+53680a8143274550150d34cb1a273b56	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+c912b5c9c42e0e226ade0e4c7f52626e	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+f7f135b2b6f1ef74099bf0ca9179338e	d__Eukaryota						
+3893c60cea0b78754877d74a476d0aac	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_sp.
+222fc04ba3da4b41148c717c4f5b23c6	d__Eukaryota	 p__MAST-2	 c__MAST-2	 o__MAST-2	 f__MAST-2	 g__MAST-2	 s__uncultured_marine
+dbf63d432fd8c1572621c279b9cde4c8	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+7dfd2968c152493a55adb9ea6a5f05bd	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+6ddf2cb70d4b812a6229af5f731a7adb	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+8dc9ec54bec8689a970243d482662b72	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+4322556f30cee086df23c67b77baf77c	d__Eukaryota						
+6992868257a8bc3e9db6ab020805f10f	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	 s__Alexandrium_andersonii
+a9920034eed1937443cbb62869b5bf8d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+ef2861e3d78cadc35976f4fa0b684f4b	d__Eukaryota						
+08f15658ef2fde361816efb2f3603f55	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+86755707684528ee744d7d95e5016956	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+b71e837f5bdf8f50ea7be4bb732cdae4	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+a34e8dd0d11597038eab5ac893061077	d__Eukaryota						
+6926f2f9d11ee1d59ae1cd9e1dc21748	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+7f8c68c255c6bedcf739c91678bc2d20	d__Eukaryota						
+04d47fbcb388f436d53846ae039aa469	d__Eukaryota						
+ed4847397323c656f304d1a9e8b805ac	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+b55f2b5a570668afd7e71dd03d4ba6e2	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+c07b03f1155ec888d0c2548381f05192	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+944b4da1f19bbd41b754afc4488f73eb	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+19c41bc4666451c8b292e577058c731f	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales		
+4e03e68d9e78680435e29ce3a85cef43	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+7c0717bfe6687d9ea3d366b5a1fcef81	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__uncultured_stramenopile
+80642d2944991473930d1c54dba6eeb3	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	
+3df08b8eaa7d4248569fc94d5f57ffad	d__Eukaryota	 p__MAST-4	 c__MAST-4	 o__MAST-4	 f__MAST-4	 g__MAST-4	
+fd5dc384cb17f9f63fe96d1d928f5bc7	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__uncultured_marine
+9d3b5303ddcad086f5868031235dd3c7	d__Eukaryota	 p__Annelida	 c__Annelida	 o__Annelida	 f__Annelida	 g__Annelida	 s__marine_metagenome
+ae8886abc46d5b6b764b83f342c13c10	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Chrysochromulina	 s__uncultured_eukaryote
+cbc9354ce7699997eff798076ccf19c2	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales		
+9a6589ec6e5522399270de21c613527f	d__Eukaryota						
+784b5a26d089d066e7c40544c9d3f5c5	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+557630796e8be01e53b2c4ee6267b1b7	d__Eukaryota	 p__Prymnesiophyceae					
+73999ddb481b684929cf196b81d292ef	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+001392c48ad1914f589721c2e5ef307c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_antarctica
+cba4134c56ba19afa637cd293359a76a	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+2998548d522207fa952c7adf03f38fbe	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+b92cf99d6d8c7a41dc885dbbd3c8a0b3	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+144cde828882d05e20507e833206f73b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+8697591989a328c2e4003346ece3bcf1	d__Eukaryota						
+f4f44962408e9343d5f368dece114aeb	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+fa9412ad0e1105b789677eded61195db	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+7575486a28aff56665c1f428f3994fdc	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+089cae76346bf2b6cb26ae8f9e1b3a99	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Licmophora	 s__Licmophora_reichardtii
+dd36034c90e357f3722cd3d1e80fea90	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+e8edcf67699ee9a565eea194e77b5716	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+3d7435d2cbeab3c903c0c713fb60a223	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+94cf769e906927fb6da24329d17d04f8	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+fa12e72aac960f390e807d9406c1725e	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+58b0ac5fe714569fd0f074a7d6a08ed6	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Micromonas	
+349cd6d3416d240b41be0c6b1be68de5	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+ae9d32b4c17251dbb3a12ec566003b1a	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+0fc6d2c25cca5fc0bb64ea003f8f692a	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+87fac391a2a17a864511155cea427bc8	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+a04e71c15939edd666d1f38c40d258ca	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+2dc70740fa4315c9286d08f94c214434	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+8efde3c473f554680bc966d78628c724	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+8f5b7314c51939d3cd3ad052f7e70224	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+1d3d23eebf660afab3f1afe0f3765a92	d__Eukaryota	 p__Ochrophyta	 c__Chrysophyceae	 o__Ochromonadales	 f__Ochromonadales	 g__uncultured	
+29d8cac5973ace739d31a8ffcc590101	d__Eukaryota	 p__Cercozoa	 c__Chlorarachniophyta	 o__Chlorarachniophyta	 f__Chlorarachniophyta	 g__NOR26	 s__uncultured_marine
+26319a6908e342ba8ca28b4587c41eeb	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+05834b308da6231b8a7c0a3aa31f4c50	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+81e636e84d369fdc70e86bb60dc4419e	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+b38814515bf1f45d59fa246da796b6a0	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+aed3c79d1bdb9237e4e839ff39400c74	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+1105c3b8126722efb801e5e697ea69b4	d__Eukaryota						
+3905b8631c6c9b3c4a8729550cb4cbb0	d__Eukaryota	 p__Prymnesiophyceae					
+a60a624b986d849b4321c8d4b439c487	d__Eukaryota	 p__Diatomea					
+7baaddd7b3c4fedf3d54debbbfe9fd44	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+f80f92af4da061286c5e055836632814	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales		
+7e414c6d863832f0d90bed7a57a15991	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+43e9fb54bd3bd934c491d8ce572881ba	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+d84b82d6e49a16ff557ac124cbbcc758	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+7b6fa52f463227079a38d83d034b2986	d__Eukaryota	 p__Chlorophyta					
+d6f512910a28d842d1e8308ca369c816	d__Eukaryota	 p__Prymnesiophyceae					
+f662e41a2d6ca1bc7aef4c5833f7e400	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__uncultured_Chaetoceros
+b9d37e4fe3e62dfc707513a72030bcaa	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+81bb0165a7c09516402fc7727f9bb6cc	d__Eukaryota						
+00350f72b77e9fdad7492a4a17a6bbdb	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+c7d93210c6924d15932bfef759a0e1b1	d__Eukaryota	 p__Prymnesiophyceae					
+919d659cc1764a85cf558ebd1cb2f31d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+7348fa0c5f9dcfe54ac1d906ccc29560	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+21b66c214aaf294f32245d9360099519	d__Eukaryota						
+91cd60e6ea80b52c0d2725f834430f9c	d__Eukaryota						
+4906ee7aa9e240625bce1b859647a0db	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+5cbb286545a1e8af9f84771be86c1f0e	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+e79e4fc06378f514c65829b677b4d72d	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+5edb60b5692be6e22956cc15f6f8fc56	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+4d972f54108bec59b4fb167999fabf6e	d__Eukaryota						
+f8edc55ac46b3c416c4c00012305f990	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+3528129e939713820a6114d739ef72b1	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+2c1b21fa9c1cbe23ab3d2359229dbf75	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Harpacticoida	 f__Harpacticoida	 g__Harpacticoida	 s__Tachidius_triangularis
+8ad15a19478ddce41417efef417ab684	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Telonema	 s__uncultured_eukaryote
+d71bb24dc607b154c4ec1dc813e885cc	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__uncultured	 s__uncultured_marine
+d1b3fcac88ca004a8a8a690690ab5c3f	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodiniphycidae	 g__Gyrodinium	 s__uncultured_eukaryote
+9895c4ba5567aa7d3f6d2d304bc42511	d__Eukaryota	 p__Cercozoa	 c__Thecofilosea	 o__Ebriacea	 f__Ebriacea	 g__Ebria	
+6681bd1485837cd0cf5ef56e475c4ccf	d__Eukaryota	 p__MAST-1	 c__MAST-1B	 o__MAST-1B	 f__MAST-1B	 g__MAST-1B	 s__uncultured_eukaryote
+c7225f21c1b7b95a628a4821b9de597f	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	
+ac1ab39f225d35aed346d15ac6846ce4	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia		
+d8ef4f300958788b1573d07421c9aa2f	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Chrysochromulina	
+1d68253199f828a8cddc02c4c29cde42	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+03ec60d7d474f1d059e827ca0fd7a42b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+b550b0ce60646731bbf47c44b56e3465	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+4bffc1503c3f8927ef5ab5d7ecb68c84	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+61689f63cd662f96c2dc0fa343ac5e3c	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+017236a9a5da625a62ac1fe0269c0fe9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+5a82f7c98383895c6b561fa18178bc9c	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+6a7130c1783de8b980a9373cb2527046	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+f99f0b514aa3ddefdaa0a217a07a31c8	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+689f328f42ba8b48e4098d3dea6e8ab8	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+993ee57ab1379277ddd7e9a95f2271b1	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+e122b96b679809e68184827036cfc5d2	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+e9fb45b913b8f1a6c01e2a36087c4a0b	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+3e303ead21bbb0762a3a46e6a73dce09	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+2159b5a01d6885000d24a7c3e555bd72	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+77bf6b0d88540a58960de7ae8c4d80b2	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+20dabc1f930ca75cb16179932e4aa1c0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+8b7367a7eba48d0f9db445e6042a494d	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Licmophora	 s__Licmophora_reichardtii
+0086d8ee51dd5a21e1bea056b89a4bca	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+151b36c9742f9b4382e46d890e868a9f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+f31c0a2ebf47532edf6799116ddbf629	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+b3be7942ad695b6c801674b58b2e5d04	d__Eukaryota	 p__Ctenophora	 c__Tentaculata	 o__Cydippida	 f__Cydippida	 g__Cydippida	 s__Pleurobrachia_pileus
+5f348e65f77516d616dfded35f65643f	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales	 g__uncultured	 s__phytoplankton_environmental
+476ba788d7d79de3add7607c5d36b5f2	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadidae	 f__Picomonadidae	 g__Picomonas	
+74ee6080d054067fe65893b11fca9db5	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Strombidium	 s__Strombidium_capitatum
+0222cebbec3c837ded0383e402cd982d	d__Eukaryota	 p__Holozoa	 c__Choanoflagellida	 o__Codosigidae	 f__Codosigidae	 g__Lagenoeca	
+8ae3251e222405d42223470f48661ec4	d__Eukaryota	 p__MAST-1	 c__MAST-1C	 o__MAST-1C	 f__MAST-1C	 g__MAST-1C	 s__uncultured_eukaryote
+77caccb4b4812d9a90b8b2ea63fb5868	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodiniphycidae	 g__Gyrodinium	
+be954a40c9f65f2afee3cb7b10e26414	d__Eukaryota						
+23f6d0e14f427b28e1db0cd4cae80a78	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Bacillariophyceae	 s__uncultured_Cylindrotheca
+4c82a28ca504a17bad7b94b1aad1cbdd	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales	 g__Amoebophrya	
+3a8f37e6f0db860ee3a5555360f9f0a6	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	 s__uncultured_eukaryote
+8a3778ed53c97d9f43bc6346a9e6b7e3	d__Eukaryota						
+5bfc90cbc5871af51fe202bfd9d43f38	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Pirsonia	 s__Pirsonia_punctigera
+5c2e57c2a776e3ece9b94f5c328ae1ec	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+4342e6965f061e29cd0cfd9d6bed131c	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+885b84baccde3567a8012541125978b4	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+72c01de6b1aa17a6c8ff5522dae698e1	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+4489edec499fb773ceb68eb188241c87	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+64e4a0a9bf1e4ec765000b4587293055	d__Eukaryota						
+a4e080bf9808f6818c8fd24d0d92d1a8	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+e716431351837a7317b710480d9e2d1a	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+41073b0dbff1fc05fc921335bde8aee5	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+57a0309d18079f63657eb4abe2f91f8a	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+548c18107d3e1adf097dedb7b7f87ccb	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+0bb7911f084026a271343080173fe6c2	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+effd632cfdce227f59a3e44961aa7e63	d__Eukaryota	 p__Chlorophyta					
+63ce5bcbcde062cf77d61e6dd436acdb	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Conthreep	 f__Oligohymenophorea	 g__Pseudovorticella	 s__uncultured_eukaryote
+8bb99d1beeeaa62aaae27aed1c0e5230	d__Eukaryota						
+b68404855a1e2a2a635cf90ed43813ae	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+ac2671ef513f9b0d88b65c023662934b	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+4cc7c23ebe8d16f8e5ad1bf93237c347	d__Eukaryota	 p__Prymnesiophyceae					
+26a665f8eef091d9ca71071990a43c47	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+74a282f73d699457ec22160b637a3a34	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+4eeb52414e64e30082ae959031b7fda5	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+07165004da3155962a4e65a639b6186b	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	
+f9db969395db464b93f0b1b5cc9045c0	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+c37366106c9af27d81ac62910d6f80ae	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+ab00bc51fb4a47c714bff3329394e0b3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_antarctica
+05a0e45752e68c379448f485048a18dd	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+97acbb87b1b8a580d7565d511530b103	d__Eukaryota						
+01ca67d70ce7a02d7b09fce53960f828	d__Eukaryota						
+de045dc8c88ac955e3ba184e56953727	d__Eukaryota						
+ba65ce2b61ba555bd9d4275455c5c3a2	d__Eukaryota						
+c09258e8ad163bb32a918a6926ec48bd	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+4d49e27f45885fcf693416f17f4da361	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+4c3a6a6a84bcc4b5fbe47cc3c1c4dd36	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+77b12d6e5873600c8613f9881e26a2ee	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+1e260c977f97c622da4c447ee756e702	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_calcitrans
+871a632e15b8b4700a28abe34aacbb1a	d__Eukaryota						
+c7e2a14000651c8dd1c7b376daf69f57	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+51f1dae22b8edb6394eae54ea9482d2f	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+7eeb436ed3ef99b4f78a2512a3d00c20	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+7d053e3eb1d3c90a93dc032af11abf1e	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+2585c34b8e8f5c7de15005c885cd3d90	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+216bb38e9ea66aa18b42495a580b4e97	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+347c1084a24867a2e4f5beb3a8686dea	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+a550de5fb7f4c76ff5ca6eee5742ae30	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+fd27382d4b6fa8c7ada6248ac52b2f71	d__Eukaryota						
+22b6095b5bca4182d44f52f186d14ad7	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+f4c148d2511e9eda506cba060218ea90	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+6b14511dfafcadaef755d165f48a9dbc	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+680f0cae2131014c56ba7849f31cf17f	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	
+93c0d9f127fbff900757ee90d920cc47	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales	 g__Amoebophrya	 s__uncultured_eukaryote
+30608e1889b9fdcc734cd56cfda72836	d__Eukaryota	 p__Ochrophyta	 c__Dictyochophyceae	 o__Dictyochales	 f__Dictyochales	 g__Florenciella	 s__uncultured_stramenopile
+9fbbe7b2a27bd33a0c0bb7afcebe582c	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Chrysochromulina	
+ae57784524f03e054f67ffeed03c3df5	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__Karlodinium_veneficum
+4b2175163e050d27947aaf6e52e96310	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Telonema	 s__uncultured_eukaryote
+99a6c1fd7f5c96c881085d7b36a38a6c	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Neoceratium	 s__uncultured_eukaryote
+8dc5e9812d00827bb0d07a959f20840a	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Mediophyceae	 s__Brockmanniella_brockmannii
+c7183ba850f1360a2f74b42e67d49f46	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Fragilaria	 s__uncultured_marine
+9ba851177b68369d284d6dfd49ae4ff5	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_III	 g__Syndiniales_Group_III	 s__uncultured_eukaryote
+b82de0dd250b48f3e5b67e26c96fad27	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales	 g__Teleaulax	 s__Teleaulax_amphioxeia
+f51fc3b44edcc98ce7ff38cb0507bb48	d__Eukaryota						
+cd767c54ea652d99408ba8311fd20c84	d__Eukaryota	 p__MAST-1	 c__MAST-1A	 o__MAST-1A	 f__MAST-1A	 g__MAST-1A	
+6ae900cf5ae6d86d2ac0959d8d2e7a42	d__Eukaryota	 p__Retaria	 c__Acantharia	 o__Arthracanthida	 f__Arthracanthida	 g__Arthracanthida	
+c525a02bb3351c5c6d83dfcc1c3b00ac	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Cyclopoida	 f__Cyclopoida	 g__Cyclopoida	 s__uncultured_eukaryote
+f21265e38d5e3cfbf41e811a5ab1d125	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Kareniaceae	 g__Karlodinium	 s__uncultured_eukaryote
+a4ca5d3160d686bc0b8ba0ca47e341a4	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+96cc617f5a137f505c22dc4fc1f6bdcd	d__Eukaryota	 p__Ascomycota	 c__Eurotiomycetes	 o__Eurotiales	 f__Aspergillaceae	 g__Aspergillus	
+908a72ab58bdf2aa725509bba066c0a5	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+cb95548e2c514b8d54a5fb447e27f404	d__Eukaryota						
+739f8beac0ac3929220fa680c53d2101	d__Eukaryota						
+c8f663f8397a4e47b6da34e857131da0	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+829b38f8c25a0eb52061b1e3a130c697	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+b382580d611b7d8eb16cf609afab83bd	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+e8bbfd82691d84369d5147e7185a1173	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+727621e7098f4d5efc7176f5793a6458	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+10ae43fb6e27b9b706eec268c326fa55	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+3e6efaed0746f7897d88d49609f09c8d	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+0bf7542803774bbef57e268378163ba7	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+8516ab64ec3828c6f551f3ab80c43f68	d__Eukaryota						
+78841a87aee942cc7f75f461466caa2a	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+e0e60e66a890bd9f22b54e0880df8387	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+20ef326cf8d7c4b87a33ca3d85e3b1bf	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+f1b7ac62fae8759979f1bd61c5cd5d8d	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Pirsonia	 s__Pirsonia_punctigera
+35ddadf5ce5586961e64a80294f9c0b0	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	 s__Alexandrium_andersonii
+395752a30aa3b15133efc32cf5c66bcf	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+b95ec7d924071ccfef25b0b5e02c0191	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+645b15cb3014e932aa38d6088baab2d5	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+dd1b76cb714cd46c867318f0abd8c531	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+0cc9350570d9f34f95f72a058e742a8f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+b47e42249de432c7f27731dc4d8bae40	d__Eukaryota	 p__Prymnesiophyceae					
+2bae8389d8687ec948a4ebaadb8c126e	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+7fc5d996fb57197c8991f86a1159f857	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+d1dc7fe7a4c1b50b8adea1e5a37b68d9	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+5ae245c859b92b680eba671a1fae02fe	d__Eukaryota						
+f31a8eac4ad207ec64c66256b6f3dbfa	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+18aef2fb00891955dcf4d132f4139676	d__Eukaryota						
+4273bd0403a84dbd085ec7cad86bf06b	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__Karlodinium_veneficum
+c2002cb551137ec2c36f6a094b311384	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Pirsonia	 s__Pirsonia_punctigera
+f8984673b463ae7d0c0fd2564ec01336	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+63afc77c64715521cc1b98728af6f5dd	d__Eukaryota						
+a525f029d8b6ed654bef4ef165220301	d__Eukaryota	 p__Dinoflagellata					
+6ff721484b6eb1a8e46511d242d51653	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+2a14283387d8b039b79f59554167ce61	d__Eukaryota	 p__Chlorophyta					
+4c8ac9c1a9838f5b02de0c824a760c4c	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+870ac9bd85f46dd5466ed99c2b949306	d__Eukaryota						
+c401e8f95e45804774abd7148b39de53	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+c51931612fa8f07451934814e62d0c57	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+80c591b49f42ae7f2b7dc75ae17fd255	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+b024f92d66c6afae0af54c6d514589d9	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+1fb31ff63a4a2bb925918426df18f51b	d__Eukaryota	 p__Ochrophyta	 c__Chrysophyceae	 o__Ochromonadales	 f__Ochromonadales	 g__Paraphysomonas	 s__Paraphysomonas_imperforata
+78f773b2efe6c789acfa4a8d14b377b6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+56a0f19382f904e914aecd32d24d1d07	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	
+908bf13b1227a2d644920583fa51fd37	d__Eukaryota						
+12182628216c3b4e4f9bc118efdaecea	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+4dcae4e52cb0b6376e38450074acec72	d__Eukaryota						
+c2245ebab11fb79a2194df1c3ff6e873	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	
+a793113d534fc259ebe618a035f885c3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+acfd19db560a03e319a83a22e1c58c9c	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+0983dbc0dffeb8c022763c22e78854ce	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+33ca1a2ef2c29ae034621df67a5c7449	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales	 g__uncultured	 s__uncultured_marine
+badfce23d99f61b06cec58c9d5678f18	d__Eukaryota						
+f717cc19d9e4e2d7471f0b8f0035522b	d__Eukaryota	 p__MAST-1	 c__MAST-1C	 o__MAST-1C	 f__MAST-1C	 g__MAST-1C	 s__uncultured_stramenopile
+e9867744e094ef748e3d10ebc16c480f	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales	 g__Teleaulax	 s__Teleaulax_amphioxeia
+0c09e08152a2c9b1808bbbcbd67865a5	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__Karlodinium_veneficum
+0c4181625d2dceefc7d124b8af3107d6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+350f7fcebfbed5c716139828eca89e44	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Gymnodiniphycidae	 g__Gyrodinium	 s__uncultured_eukaryote
+23021687cd7ee5fac997ee4c393d11c0	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales	 g__Teleaulax	 s__Teleaulax_amphioxeia
+0336471be67bfe1d443084961e7ea5dc	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_III	 g__Syndiniales_Group_III	 s__eukaryote_clone
+dd3eb1eaa2257c6173c0620e92518858	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Peridiniales	 f__Peridiniales	 g__Protoperidinium	 s__uncultured_dinoflagellate
+c77b67ffd20450c0023a430d36812ce8	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Cyclopoida	 f__Cyclopoida	 g__Cyclopoida	 s__uncultured_eukaryote
+c06f5c9e2e08897f775cf9550c11892c	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__Uncultured_marine
+cb328aa5a4b2d727389fe9ffd15833d8	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia		
+66c338c5ed3a1b7213bcff1993a2c341	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__Rimostrombidium	 s__uncultured_ciliate
+2baa2e20697d42fd019d8115fecc4e1c	d__Eukaryota	 p__Holozoa	 c__Choanoflagellida	 o__Acanthoecida	 f__Stephanoecidae	 g__Bicosta	 s__Bicosta_minor
+d88f52910bfd288d77c21a8ac521d901	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+37fac024697025bd4723a51d63f12b1f	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Telonema	 s__uncultured_eukaryote
+4731e6c36664f2819efd7c243a9798e5	d__Eukaryota	 p__MAST-3	 c__MAST-3I	 o__MAST-3I	 f__MAST-3I	 g__MAST-3I	 s__uncultured_stramenopile
+46adb34fdc1bc3169a7163da2e42dcce	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Peridiniales	 f__Peridiniales	 g__Protoperidinium	 s__uncultured_marine
+fa8d660f9dab0a4a8350517dc85854d2	d__Eukaryota	 p__Cercozoa	 c__Thecofilosea	 o__Cryomonadida	 f__Protaspidae	 g__Protaspis	 s__uncultured_marine
+79e9504d82b863f2db79550e28c6e627	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__OLI16029	
+83b598e95b6193fb023df118131a65ba	d__Eukaryota	 p__Retaria	 c__Acantharia	 o__Acantharea_Group_I	 f__Acantharea_Group_I	 g__Acantharea_Group_I	 s__uncultured_marine
+3b3e822393430e42696da482879f12bd	d__Eukaryota	 p__Ochrophyta	 c__Pelagophyceae	 o__Pelagomonadales	 f__Pelagomonadales	 g__Pelagomonadales	 s__uncultured_stramenopile
+0ea7221fbd466742df6512964bc01528	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__uncultured_marine
+48489c861e3b2635fe763ffa655e1185	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+0e262bea1bad2f10ca414fbc8ceb66cd	d__Eukaryota						
+9e1d03400ece703f8455954a19d6d111	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+92e152385113f3ddee7e76c586c0e0dd	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+b1f4b11e74cce59dc1827852a5c1249b	d__Eukaryota						
+89c086293539349ced2fe301a5fc9134	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	
+5ea2f0ee62dbaa4270f20b45aaa2a8ba	d__Eukaryota						
+401c53b3ab1773cdd4d989ff059371bf	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+421d383f76ed75e9fd6c039cc4762439	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+8d4a3e0f2205728b6d441272d0b73a59	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+e16ad7ce3691c004496f881d9a984cc4	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+cbbfff364b0436854186a41faac3ab38	d__Eukaryota	 p__Diatomea					
+d469d780aa2008f791fca69c10996761	d__Eukaryota						
+f86704946778eaee70bd9a66a1fe2414	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+c6ef9ac577cb357615eead8e3a00af19	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+b534a0724fdc4240d1d928b4099a1ab1	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+c50563a37f0e1f2855435a08a65bb1a2	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_goreensis
+bdc42052cf565bbd04e87774ee0979a4	d__Eukaryota						
+af41c03b7038b151189c92ead7b48a92	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+ea3188263bb89b33faadee4c809663d1	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales		
+9266f47e45ce902c9f22289f774df57b	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+1bc41b55f9d1e4a3a494af76f16eae36	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+3bd235e9b6b03acb20b246abd5cddc71	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+c2cf7492a2b01daf1cbe0cec7a0d04ac	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+fa111d89b26d665114eb81da612e9354	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+a55641837b5963d426dad7de92be6ce9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+c93b5327d6d7b7cc426e372c319e5569	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+bcfd1697a5bba18d9af58734aea67e29	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Skeletonema	 s__uncultured_marine
+b414c48e224dcaa8dce9b98608803611	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+15a8195bf3f22c8479e3d12c327ab4b3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+6fe651a197d7be9ad5338764ae848594	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+51c6401a77a0904046d146c17a0b0eec	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+30e6d5dc22eac4cd4ecc48d2f70bdd5b	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_sp.
+03a20d514d3f7f32fb2dc28cd0aebf62	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+e41601d47bd40a612c58ef5b97c4acb5	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales		
+fe996bf9d4a0edeb50d1e548617659f6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+5397e77721f903bfc7a8f833704f1086	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+970121ae7fd86807136a075d3b9f80b2	d__Eukaryota	 p__Diatomea					
+6b17492abfd60cee25d7ef12646edf98	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Isochrysis	 s__Isochrysis_galbana
+00f83e671b005fdc1357a1eeb728e92d	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+636ee0b8b8e9cf8470bcea3d0b207315	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Euplotia	 g__Euplotes	 s__Euplotes_dammamensis
+49d82f1cee696c99015e4c0a57faa950	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+b8f9256038db71722f81d2ba1e684f29	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae		
+c5dbec7211ca974902368ef9ba5101a9	d__Eukaryota						
+f4eb076266fe56d1536743b03822efc6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+c1ecc228db827c8ddb5944b60c822a21	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Pirsonia	 s__uncultured_eukaryote
+22a854553c160d07456a98ad9ac6cda9	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+08f707cce5c833d25b4d2cb5415347ac	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+cbe0a3a54b04598642a81767c22029b4	d__Eukaryota	 p__Labyrinthulomycetes	 c__Labyrinthulomycetes	 o__Labyrinthulomycetes	 f__Thraustochytriaceae	 g__Thraustochytriaceae	 s__Thraustochytriidae_sp.
+96c68202e42c8fadf97c353d51ceb88d	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+7bd2d5dcd9b64788ff992eb91c8a0524	d__Eukaryota	 p__Prymnesiophyceae					
+84877fdc795466db0b1044fedbdd1277	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+53c2751c488a1a43538cf9adfc705e75	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+af0321a685e24c35663c9bca90a2296b	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+9f824d99a3edc483030ecb2f29b70c92	d__Eukaryota	 p__Diatomea					
+6632576cf3c071bce0bca993c67364ee	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Skeletonema	 s__uncultured_marine
+c662f440a2567c74a4de8b9256576368	d__Eukaryota						
+10605dd81fd28d0277dcf5f932d610f4	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+50eaabbe56440ada8f1e01f8887916f3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+79d9b79cd71dc3924712f92941f74824	d__Eukaryota						
+9eeb629e8445c33157ea416a369ed547	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Conticribra_weissflogii
+479b948c3326d25dcec20352d17df82f	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+4ddee7fe665d6748b1455186891f1111	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+8ac0bad85d0424155133d2a447649dd4	d__Eukaryota						
+d548118dfe1679aa0dd4c58bd4134d38	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+b1d7175df7c8602c0f1fa85190939447	d__Eukaryota						
+ba71c390ee8d4955a2aae57f7a42d5d6	d__Eukaryota	 p__Diatomea	 c__Bacillariophyceae	 o__Bacillariophyceae	 f__Bacillariophyceae	 g__Pseudo-nitzschia	
+338417a44484eafb0d6e14076fb07a79	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+deb14220bedf7018bfc074aca0978a92	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+2f42a8830fdad3f913b35e290f427014	d__Eukaryota	 p__Ochrophyta	 c__Chrysophyceae	 o__Ochromonadales	 f__Ochromonadales	 g__Paraphysomonas	 s__Paraphysomonas_imperforata
+7c7d9ee58792c112157d1fd60b14b10d	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+d9234acb6f44c7624f48e4cee64df04b	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+65dc8853fa143c4a576db29d87709f38	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+0e9e274cf0b0c95ab6afbc607b58a1ef	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+3e0766255bab204f970cdf8b6a72aade	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+77aa456732fc90c561ee70f54792124f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Thalassiosira_minima
+a385f0e5c0db5a012163a90eb6e8b0ce	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+5d040a380423fa7848daf89dabe74d59	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+c5228724a1e0e86aa0635b6676507900	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+e3835003da6e60906c8ce6e927bb7a4a	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+de21cd443909697dc392523b3cb4092f	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+692ebedcf62199e8511ab366b4f18b0c	d__Eukaryota						
+386e4b3bcbc2510d10447f52f0439242	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__Choreotrichia	 s__uncultured_eukaryote
+10e0814dad99546c9f00b55d4711b37c	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales	 g__Rhodomonas	 s__Cryptophyta_sp.
+5b650c872b60f498d64f598cf272bc41	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_III	 g__Syndiniales_Group_III	 s__uncultured_eukaryote
+33a0320a1cddc49a77c4175731f2535d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	 s__Prymnesium_palpebrale
+0060290bc5827a4b523db7cd27feac53	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__uncultured	 s__uncultured_eukaryote
+abc5d45869743120e973778909548625	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__Thalassiosira_minima
+660db04d437537d096da204a104efd3e	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_II	 g__Syndiniales_Group_II	 s__uncultured_eukaryote
+f01a8e35f50c34befd4ebf66e44ab776	d__Eukaryota	 p__Tunicata	 c__Appendicularia	 o__Copelata	 f__Oikopleuridae	 g__Oikopleuridae	 s__uncultured_eukaryote
+8bf60ba65bf65d5643ea81234a622698	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Mediophyceae	 s__Thalassiosira_proschkinae
+db9ec1324c8af0e881963fd5b72858ad	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Conthreep	 f__Nassophorea	 g__uncultured	 s__uncultured_ciliate
+33f97d7b4becf1e64b910d1c020185e0	d__Eukaryota	 p__Ochrophyta	 c__Chrysophyceae	 o__uncultured	 f__uncultured	 g__uncultured	 s__uncultured_marine
+645d30f943924d0dc81e6bd91bea76b6	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__Karlodinium_veneficum
+0fe30e4ec0a174a5741b3be586e9b62d	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales	 g__Amoebophrya	 s__Amoebophrya_sp.
+b7448831673be6f7a9be125cc2a1ff6c	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales	 g__Amoebophrya	
+efb495868d25be58ac2e99b823bfc80b	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_III	 g__Syndiniales_Group_III	 s__uncultured_eukaryote
+ff54f4d1fbc1df57c185ff9372ed56cf	d__Eukaryota	 p__Florideophycidae	 c__Rhodymeniophycidae	 o__Rhodymeniophycidae	 f__Rhodymeniophycidae	 g__Rhodymeniophycidae	 s__Gelidium_amansii
+94ca54438399e2dd8b7f77e1924f1628	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Chrysochromulina	 s__uncultured_eukaryote
+baba842fb83ddca295e33c1dbd5c2d9f	d__Eukaryota	 p__Cercozoa	 c__Imbricatea	 o__Imbricatea	 f__Thaumatomonadida	 g__D2P04A09	 s__uncultured_marine
+d3bcaa16145abd385c047d32612f1257	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadidae	 f__Picomonadidae	 g__Picomonas	 s__uncultured_eukaryote
+479cacdf169975ad927751397e5f0c08	d__Eukaryota	 p__Chlorophyta	 c__Clade_VII	 o__Subclade_A	 f__Subclade_A	 g__Subclade_A	 s__uncultured_Chlorophyta
+c8793357e3fbb4d6366044b6c4825b07	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	 s__uncultured_stramenopile
+61e636ded02f2d68127abbdf1b63ce00	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae	 o__Mamiellales	 f__Mamiellales	 g__Bathycoccus	
+9ea32dd8e357ad092ec3a729f4322d3c	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Coscinodiscophytina	 g__Actinocyclus	 s__uncultured_marine
+30b553946a09fa3809e606244405480d	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Litostomatea	 f__Mesodiniidae	 g__Myrionecta	 s__uncultured_eukaryote
+4f352240a913a8ed88e026b454691b2b	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_II	 g__Syndiniales_Group_II	 s__uncultured_eukaryote
+17ee3a2be304a15cf2b5a7e757a20e01	d__Eukaryota	 p__Holozoa	 c__Choanoflagellida	 o__Acanthoecida	 f__Stephanoecidae	 g__Calliacantha	 s__Calliacantha_natans
+e2888fef8b7ec2e5a86b4bcaf7d00008	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_dichaeta
+c2f72172716fed9d889c30050f61d9d0	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Spirotontonia	 s__uncultured_marine
+5e0a3093bfe10436670339a144da05d1	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Incertae_Sedis	 g__Cochlodinium	 s__Margalefidinium_fulvescens
+a20c4f1b6be40e3dabf3151ff6c0f9af	d__Eukaryota	 p__Cercozoa					
+d0efd369f2484d993ed81062fa1288e0	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gymnodiniphycidae	 f__Incertae_Sedis	 g__Cochlodinium	 s__Margalefidinium_fulvescens
+b05a908fe2670c6a25c62b8c80becb2d	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	
+8341609e5df782af79251b3d4b7b3bd1	d__Eukaryota	 p__Chytridiomycota	 c__Chytridiomycetes	 o__Lobulomycetales	 f__Lobulomycetaceae	 g__uncultured	 s__uncultured_fungus
+5f85e911a90a423c2e56180fe96b7cbe	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Chrysochromulina	
+3856d8087ec5928dc6a0605b0c5c5259	d__Eukaryota						
+5f89db986ae4818f3615fadc73d2bf2e	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+823c32d7b9f252f0aebaf5ab50a77cb1	d__Eukaryota	 p__Holozoa	 c__Choanoflagellida	 o__Acanthoecida	 f__Acanthoecidae	 g__Pleurasiga	 s__Pleurasiga_minima
+6698be9cf85bea25b16fd758e7eca47c	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_II	 g__Syndiniales_Group_II	 s__uncultured_eukaryote
+f6e3b7f360e677d828a178d82e9eb70a	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__Choreotrichia	 s__Stenosemella_pacifica
+cf01af9aa69771ad30ea92b5391fd9a0	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Telonema	 s__uncultured_eukaryote
+80f3b2e1c67c70085ea60dc73494e4d8	d__Eukaryota						
+fc75b4d331ccc50a0fb0c15400c058ed	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Cerataulina	 s__Cerataulina_pelagica
+9d6fc0c9b3812ed82dfa17a1c9215c33	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	 s__uncultured_eukaryote
+9b359bbec80c9ba2b13612b88ce1e93e	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Choreotrichia	 g__uncultured	 s__uncultured_eukaryote
+3ae18a4e2cc620a23ee229d2fc9fdbb5	d__Eukaryota	 p__MAST-2	 c__MAST-2	 o__MAST-2	 f__MAST-2	 g__MAST-2	 s__uncultured_eukaryote
+45c52ecd039719fcb7b3e50f20bedc05	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+20570c92e69a9360288cd26a6008259f	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+8d0297d0b28dfbdac7e478a1a7ae731a	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+b5c0a1e6b48ae946badd86a580fb657a	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+85dc4e17bd944417d6d58292b1d8d4ff	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+815eadf24281ff74ddccdf73fd78b3e0	d__Eukaryota	 p__Ascomycota	 c__Eurotiomycetes	 o__Eurotiales	 f__Aspergillaceae		
+793c597cb8f87db3ac92bd4375982b82	d__Eukaryota						
+ecdb35f8175341880602ce9cef016f4e	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+c522a440328d3b518e11a9e397c2fc13	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+6c52d3126ebc4f3a7da1a1a1e1852396	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+b7e4beddab55fcd42ca785f983e8911d	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Fragilariales	 f__Fragilariales	 g__Plagiostriata	 s__Plagiostriata_baltica
+d213b80f40ae25a901d947c1fcca5c70	d__Eukaryota						
+194ea39a119d9a79e7d39012cc4ae4ab	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+ce98c992801f1501b6c76a369132e0b1	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_calcitrans
+ba3d762a916500a3cd50201237a43c43	d__Eukaryota	 p__Ascomycota	 c__Eurotiomycetes	 o__Eurotiales	 f__Aspergillaceae		
+de9d1aa7dd272e4592e4f673a3f76545	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+fe6ad5d8a6149b192198c750959006e6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales		
+4678d5da9b5281409a88909ce8c138cf	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+41a6a96f3e3116b26dd8215b13c3a130	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+93729ca343a079eededeca68b9b88f7e	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+3a960cbbedb1fa26e10bbc8859574af7	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales	 g__Emiliania	 s__Emiliania_huxleyi
+32b877fbf42fdae0736b620f17bad4a6	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+23632da2125e676dcfc4605305c15c42	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+100f9964f2c9cb23f641caa38ff6a85c	d__Eukaryota						
+c5b9fd747b35e5fe0194cc3b78618495	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	 s__uncultured_Zygnematales
+909a65b5fa4099bafe88d98a494d4faf	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+b842fef97e87bd01328d2d62d5443917	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+9c476d5fcb25d9d7cbb4586a692e6a78	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+0a26a3b2c57be01807271b71270ac81d	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+bd23a7a92383bd95f0569da84aafea9d	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales		
+41c953039a268c4287a6d52a13220278	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+9fe8eba4a4abd84febc2cc8b4c27879d	d__Eukaryota	 p__Ascomycota	 c__Eurotiomycetes	 o__Eurotiales	 f__Aspergillaceae		
+2f973adfdff3f1f479ba43452c178983	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+44b819592a4f713ffc9a2d432a3f22b8	d__Eukaryota	 p__Ascomycota	 c__Dothideomycetes	 o__Pleosporales			
+11de665104fec3ff52fb4ada2adc8807	d__Eukaryota						
+610088396ec96e549e0f04e02ede524b	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Euplotia	 g__Euplotes	 s__Euplotes_dammamensis
+73e1cd5064218f2b6ef9a8c9fb8a1b53	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+f8326cba06984f36e677737b386767bf	d__Eukaryota						
+2a259d870f3b93e5d992bcfba7f3d1a0	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_parkeae
+bc1c814eba3f81e2df56a9697a4a4598	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+9649556decbca3a50bf8b0de9d36b327	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+0b097b5e55210b1161c5005a02dfcd04	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiales	 f__Prymnesiales	 g__Prymnesium	
+5522a68b58bec9bd078ae18d45f7c45b	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+d1301b320f205eab4625b9ae00f07dba	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Thalassiosira	
+b46b5e5d2f039032cff7f64146437506	d__Eukaryota	 p__Cercozoa	 c__Novel_Clade_2	 o__Novel_Clade_2	 f__Novel_Clade_2	 g__Novel_Clade_2	 s__uncultured_eukaryote
+70e200a04887d1524e58902509abc3a3	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+5e8da50710f3bec00857cd7e8607cbb2	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+692e525e5cd0367e3a8e2034ffb0a63f	d__Eukaryota						
+d3b32a1fd788caf1ae663b5fb1457ed8	d__Eukaryota						
+5169b3f1a0e11f332332bbd80ab21974	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Pirsonia	 s__Pirsonia_punctigera
+f35dea342a6d1ecb1459fcd13817cd49	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+bc7e1fdaf9fd666dee76e7fc43e73b5e	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+7702ad551bdbc87b7518b86af3386ce9	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+25edc1dbdcfe03902ed9df53c33ed50f	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+08c3910e91508353fd44ddaf79e9e89e	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Odontella	 s__Odontella_rostrata
+0f97dea2785c2eaf34b0e676e179a96a	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+382a65ada12c6e572d4e8766f2c81306	d__Eukaryota						
+625dd0bb14fe91088657121b869b9d88	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+d09cba7934c7ae4c954ef6a0bd6f9836	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	
+ac88c84749a2fefa16ed4b4345ba946a	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinococcales	 f__Prasinococcales	 g__Prasinococcus	 s__Prasinococcus_sp.
+39167432fdbc61874cadd3d627dc4c59	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+f9ee4896f0cf546b3e559f4756e5cb37	d__Eukaryota	 p__Prymnesiophyceae					
+dd4e4700b4f11b2dd98469613d3ead0d	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+a34ccaed7ad478921486eaa16848e183	d__Eukaryota	 p__Cercozoa					
+e1bbc70286898880451a9696752e8795	d__Eukaryota						
+070309924d59058eefd94982277aaaa5	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda				
+8a7aae99c73b34d95116fd1b62548c41	d__Eukaryota	 p__Ascomycota	 c__Eurotiomycetes	 o__Eurotiales	 f__Aspergillaceae		
+0bb879b229ba48b61c5b49b99494d0cc	d__Eukaryota						
+7134ebabdde79b25f42fc383934464b6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+2083779c142c67f1faf6509b2cd510ab	d__Eukaryota	 p__Picozoa	 c__Picomonadida	 o__Picomonadida	 f__Picomonadida	 g__Picomonadida	
+69fbdc21e7ecefff983d6f689d905eb6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+3a483b3267558b70cdac2fdc94f8991e	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+fd58818ee0b9d293faeced41ddbfcb88	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	
+202d3fd69ca3ef7401cafaea117af123	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae				
+45c985c68e320992f79d5cbc94e277c4	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+abf51c99df4156688489a0b37b8b7efd	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+898dca2cbf08dcdd20fd4f50fc745d02	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+3ea47e7fca19b17f4e6ba79276fdd837	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Isochrysidales	 f__Isochrysidales		
+f87aa2c0613cbd077307450b69c425a1	d__Eukaryota						
+f8cc550a16966d12bda6b1a576d957f1	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+c2957c25f96964a207803710e12eb95d	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+0c438c44859901bbbb44b12266f01402	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	 s__Alexandrium_andersonii
+30c7ab0e4b089a69ea8234bd0e144dd5	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+8ee953ef7b11b1891c528fb8898b14ea	d__Eukaryota	 p__Diatomea					
+2116f7a4da12d298075d496bb92f9a77	d__Eukaryota	 p__Diatomea	 c__Coscinodiscophytina	 o__Coscinodiscophytina	 f__Melosirids	 g__Melosira	 s__uncultured_stramenopile
+d4992acd4afece365c11683952988aa6	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+b39b6216476376e5fd3ef0cbee699dc8	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__uncultured_Chaetoceros
+41c3b10ca4a31d60224fde649d53af57	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+78d61972a414a2249418b4d4c4c39738	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+8bfbda1a55653e3e83864f0b813cd2a0	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_pouchetii
+0e7ff43148ca8937c5663989171d6eb0	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae				
+257c6d138484c2b4a73ec7f6ebbd21cc	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	
+3057c2f4d457efb921a2d366de40fec9	d__Eukaryota						
+343460d3687c828d078663a7a8c033e3	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Euplotia	 g__Euplotes	 s__Euplotes_dammamensis
+b8fa1555156eba3398b7b05d6ca45da6	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	
+4e400b062eb83274da219b6d04ba30c6	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+0e13ac8cf595201047f6dc9453adf0f8	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae	 g__Chaetoceros	 s__Chaetoceros_socialis
+c136f6d7e7a00192a95e0e058f4e3ee2	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Gonyaulacales	 f__Gonyaulacales	 g__Alexandrium	
+34e8a48f927cee16853bc3be3ceb599f	d__Eukaryota						
+2078eeceb1ba5da923670dc24a84cabf	d__Eukaryota	 p__Chlorophyta	 c__Mamiellophyceae				
+d6b2e81c5c28892a902e37dd54062748	d__Eukaryota	 p__Incertae_Sedis	 c__Incertae_Sedis	 o__Incertae_Sedis	 f__Incertae_Sedis	 g__Telonema	 s__uncultured_eukaryote
+51837253f52421aa37e0d3fb4da32aed	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__uncultured_eukaryote
+47d6efb977676b4887136eab53504c0a	d__Eukaryota	 p__Porifera	 c__Demospongiae	 o__Poecilosclerida	 f__Poecilosclerida	 g__Poecilosclerida	 s__Hymedesmia_pansa
+7ce5c0c964045a5f33976c643223123b	d__Eukaryota	 p__Cryptophyceae	 c__Cryptophyceae	 o__Cryptomonadales	 f__Cryptomonadales	 g__Teleaulax	 s__metagenome
+75826d473d99bbe8cbef5ac835beb9c4	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_I	 g__Syndiniales_Group_I	 s__uncultured_Duboscquella
+b2dc620488678af4a251805d9ba71280	d__Eukaryota	 p__Cercozoa	 c__Novel_Clade_2	 o__Novel_Clade_2	 f__Novel_Clade_2	 g__Novel_Clade_2	
+f5677f892127c47618f5a346ccaf3628	d__Eukaryota	 p__Dinoflagellata	 c__Dinophyceae	 o__Peridiniales	 f__Peridiniales	 g__Amphidiniopsis	 s__Dinophyceae_sp.
+a75c5171b454182287ac001db601f6f8	d__Eukaryota	 p__Cercozoa	 c__Imbricatea	 o__Marimonadida	 f__Marimonadida	 g__Pseudopirsonia	 s__uncultured_Rhizaria
+797421ab7d9c7bff3075289ecebd2980	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Strombidium	 s__uncultured_eukaryote
+7b62a82bf8ecc966674a205c981f0df4	d__Eukaryota	 p__Diatomea	 c__Mediophyceae	 o__Mediophyceae	 f__Mediophyceae		
+6ffc4e4ea908f5dbdae68d4f66fd9ed0	d__Eukaryota	 p__Chlorophyta	 c__Prasinophytae	 o__Prasinophytae	 f__Prasinophytae	 g__Prasinophytae	 s__Pyramimonas_sp.
+a1ebb2087223029fde655f0169d5451d	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales_Group_II	 g__Syndiniales_Group_II	
+ba490ffbeab79e97480ffb2c350dea84	d__Eukaryota	 p__Cryptomycota	 c__LKM11	 o__LKM11	 f__LKM11	 g__LKM11	 s__uncultured_Chytridiomycota
+a19c69139900b232d03c878871c45b0f	d__Eukaryota	 p__Protalveolata	 c__Syndiniales	 o__Syndiniales	 f__Syndiniales	 g__Amoebophrya	 s__uncultured_eukaryote
+10ca5eb4eedbfa897fdd5cd323fc6940	d__Eukaryota	 p__Ciliophora	 c__Intramacronucleata	 o__Spirotrichea	 f__Oligotrichia	 g__Strombidium	 s__uncultured_ciliate
+7960600401f1a9d38a9ae64fc2fdbecd	d__Eukaryota	 p__Arthropoda	 c__Maxillopoda	 o__Calanoida	 f__Calanoida	 g__Calanoida	
+d65bebcbb44ff7eaa5b3902325e08739	d__Eukaryota						
+d8f03bf90cdf0abc66b57691a85d73b2	d__Eukaryota	 p__Prymnesiophyceae	 c__Prymnesiophyceae	 o__Prymnesiophyceae	 f__Prymnesiophyceae	 g__Phaeocystis	 s__Phaeocystis_globosa
+a1e641d528e6411d17d6bed2928b42db	d__Eukaryota	 p__Cercozoa	 c__Ascetosporea	 o__Haplosporida	 f__Haplosporida		
