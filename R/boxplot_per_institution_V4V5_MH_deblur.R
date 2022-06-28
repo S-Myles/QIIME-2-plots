@@ -12,17 +12,16 @@ library(phyloseq)     # Data structure and functions for seq data
 library(tidyverse)    # Data handling and all
 library(microbiome)   # Contains CLR data transformation
 
-setwd("C:/Users/18192/Documents/LaRoche_lab/GLOMICON/Inter_MetaBarcoding_Comparison")
+#setwd("C:/Users/XXX")
 
 
 ### Pre-Processing All Data Sources ###
 
 ## Metadata
 # import data and make sample ID the row names
-metadata <-  read_tsv("./data/metadata.txt") %>%
+metadata <-  read_tsv("./data/metadata.tsv") %>%
   column_to_rownames(var = "sampleid")
-# Specifying that DNA concentration should be a numeric value bc one 'N/A' renders it a character vector
-metadata[['original DNA concentration (ng/uL)']] <- as.numeric(metadata[['original DNA concentration (ng/uL)']])
+
 ## ASV table (Sample X Taxon, read counts)
 # Read ASV table but skip first row because all it is is '# Constructed from biom file'
 ASV_table <- read_tsv("./data/V4V5_MH_deblur/feature-table.biom.tsv", skip=1) %>%
