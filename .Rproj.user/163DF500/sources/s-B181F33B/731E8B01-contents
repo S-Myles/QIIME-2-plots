@@ -1,0 +1,27 @@
+library(qiime2R)
+library(tidyverse)
+
+# unpacking classification.qza file, extracting the taxonomy data frame
+taxonomy <- read_qza("data/classification.qza")['data'] %>% 
+  data.frame() %>% 
+  rename(ASVs = data.Feature.ID)
+
+# e.g. of taxonomy$data.taxon value: 'd__Eukaryota; p__Diatomea; c__Mediophyceae; o__Mediophyceae; f__Mediophyceae; g__Thalassiosira'
+# Will clean up prefixes and split data.taxon into 7 columns
+
+# Cleanup taxonomic level prefixes
+taxonomy$data.Taxon <- gsub('.__', '', taxonomy$data.Taxon)
+
+# Make a list of taxonomic levels included in data.Taxon strings (provided by classifier)
+tax_levels <- c('domain', 'phyla', 'class', 'order', 'family', 'genus', 'specie')
+
+# Splitting 'data.taxon' column into 7 taxonomic levels (columns)
+taxonomy[tax_levels] <- str_split_fixed(taxonomy$data.Taxon, '; ', 7)
+
+
+# Tidying dataset (I only care for the ASV IDs and taxonmic level columns)
+taxonomy <- taxonomy[c('ASVs', tax_levels)]
+
+
+# writing .csv file into 'doc/'
+write.csv(taxonomy, 'doc/taxonomy.csv')
