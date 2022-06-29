@@ -23,5 +23,5 @@ taxonomy[tax_levels] <- str_split_fixed(taxonomy$data.Taxon, '; ', 7)
 taxonomy <- taxonomy[c('ASVs', tax_levels)]
 
 
-# writing .csv file into 'doc/'
-write.csv(taxonomy, 'doc/taxonomy.csv', row.names = F)
+# writing .csv file into 'data/'
+write.csv(taxonomy, 'data/taxonomy.csv', row.names = F)
