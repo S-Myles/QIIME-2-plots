@@ -1,5 +1,0 @@
-You will first want to unpack your .qza files with 
-qiime2r or something like that. Then, create new data sets
-as csv or something easy to handle.
-
-Then, work from there.
