@@ -6,11 +6,11 @@ library(microbiome)   # Contains CLR data transformation
 ### Pre-Processing All Data Sources ###
 
 # Metadata
-metadata <-  read_tsv("../data/metadata.tsv") %>%
+metadata <-  read_tsv("./data/metadata.tsv") %>%
   column_to_rownames(var = "sampleid")    # make sample ID the row names
 
 # ASV table (Sample X Taxon, read counts)
-ASV_table <- read_csv("../data/ASV_table.csv") %>%
+ASV_table <- read_csv("./data/ASV_table.csv") %>%
   column_to_rownames('ASVs')      # Make ASV IDs row names
 
 
@@ -35,7 +35,7 @@ plot_richness(physeq_data, x = "year", color="year", measure="Chao1") +
   theme(legend.position = "none") +
   coord_flip()
 # Saving plot in /docs/
-#ggsave("../docs/read_counts_Chao1.png")
+#ggsave("./docs/read_counts_Chao1.png")
 
 
 ### Plotting Shannon evenness boxplots ###
@@ -46,4 +46,4 @@ plot_richness(physeq_data, x = "year", color="year", measure="Shannon") +
   theme(legend.position = "none") +
   coord_flip()
 # Saving plot in /docs/
-#ggsave("../docs/read_counts_Shannon.png")
+#ggsave("./docs/read_counts_Shannon.png")
