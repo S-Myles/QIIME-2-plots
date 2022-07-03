@@ -3,7 +3,3 @@
 .RData
 .Ruserdata
 .gitignore
-
-# ignore data directory
-/data/*.qza
-/data/metadata.tsv
