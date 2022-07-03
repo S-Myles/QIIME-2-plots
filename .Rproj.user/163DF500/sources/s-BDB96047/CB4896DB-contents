@@ -1,6 +1,5 @@
-.user
+.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-.qza
-metadata.tsv
+.gitignore
