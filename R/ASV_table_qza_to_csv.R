@@ -1,7 +1,9 @@
 library(qiime2R)
 library(tidyverse)
 
-# unpacking feature-table.qza file, extracting the ASV-table as data frame, and renaming appropriately
+# unpacking feature-table.qza file and extracting the ASV-table as data frame
+# You will likely need to rename the columns of this table (samples) to match metadata file.
+# Your patterns will deviate from this, and in need, lookup 'RegEx patterns' for guidance.
 ASV_table <- read_qza("data/dada2_table_final.qza")['data'] %>% 
   data.frame() %>% 
   rename_with(                   # Renaming column names to match metadata file
