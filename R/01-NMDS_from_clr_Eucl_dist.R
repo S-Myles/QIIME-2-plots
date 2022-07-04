@@ -39,7 +39,7 @@ physeq_NMDS_Eucl <- phyloseq::ordinate(physeq_CLR, method = "NMDS", distance = "
 # There is lots to play with here to customize your viz. 
 # Phyloseq plots are built atop of ggplot2, so most ggplot2 utilities can be used
 plot_ordination(physeq_CLR, physeq_NMDS_Eucl, color="depth") + 
-  geom_point(size=5)
+  geom_point(size=2)
 
 # Saving to files
 #ggsave("./docs/NMDS_of_clr_data_in_Euclidean_dist.png")
