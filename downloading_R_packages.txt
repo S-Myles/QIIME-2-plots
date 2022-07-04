@@ -1,4 +1,0 @@
-qiime2R
-tidyverse
-phyloseq
-microbiome
