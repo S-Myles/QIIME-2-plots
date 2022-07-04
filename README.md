@@ -10,7 +10,7 @@ My goal here is to bridge the gap between one bioinformatics pipeline and a hand
 <br>
 
 ## Data
-Input data used to create these scripts have been removed from this repository for confidentiality. When inputing your data, you will need to adapt scripts to your character patterns and purposes. 
+The data I used to create these scripts and vizualisations have been removed from the repo for confidentiality. When inputing your data, you will need to adapt scripts to your character patterns and purposes. 
 <br>
 
 `*` Checking your data on the console as lines of code get run will help you diagnose issues and save a headache. `*`
