@@ -1,0 +1,5 @@
+Input your data in this folder.
+
+Data can be inpputed as .qza files directly from QIIME2, or can be pre-converted into .csv and .tsv files.
+
+Your type of input data will dictate wether the data processing scripts from folder 00- are necessary to run or not.
