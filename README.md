@@ -3,17 +3,17 @@ A collection of R scripts to handle pre-processed metabarcoding data and produce
 <br>
 
 ## Scope
-The goal of this repository is to publish snippets of open source code that I regularly use for downstream processing of amplicon sequencing data. This type of data is often generated for microbiome and environmental DNA analysis. Following the processing of raw sequencing data through a typical bioinformatics pipeline ([QIIME2](https://qiime2.org/)), few of the integrated tools are flexible enough to accommodate the diverse research needs. It's why many packages and libraries have been developped and published in higher-level programming languages to handle such tasks. 
+The goal of this repository is to publish snippets of open source code that I regularly use for downstream processing of amplicon sequencing data. This type of data is often generated for microbiome and environmental DNA analysis. The typical bioinformatics pipelines that process raw sequencing data provide some integrated tools for vizualisation and inference, but those are often not flexible enough to accommodate diverse research needs. It's why many packages and libraries have been developped and published in higher-level programming languages to handle such tasks. 
 <br>
 
-My goal here is to bridge the gap between one bioinformatics pipeline and a handful of R packages to generate informative and flexible data visualizations. 
+My goal here is to bridge the gap between one bioinformatics pipeline ([QIIME2](https://qiime2.org/)) and a handful of R packages to generate informative and flexible data visualizations. 
 <br>
 
 ## Data
-The data I used to create these scripts and vizualisations have been removed from the repo for confidentiality. When inputing your data, you will need to adapt scripts to your character patterns and purposes. 
+The data used to create these scripts and vizualisations have been removed from the repo for confidentiality. When inputing your data, you will need to adapt these scripts to your character patterns and purposes. 
 <br>
 
-`*` Checking your data on the console as lines of code get run will help you diagnose issues and save a headache. `*`
+`*` Regularly vizualising your data with the R console as you run lines of code will help you diagnose issues and save headaches. `*`
 <br>
 
 ### Amplicon Sequencing and pre-processing
